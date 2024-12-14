@@ -76,6 +76,8 @@ function createBookListItem({ container: booksListElement, book }) {
 
 function createNoBookFound(booksListElement) {
   const noBooksMessageElement = document.createElement("p");
+  noBooksMessageElement.classList.add("no-books-message");
+
   noBooksMessageElement.textContent = "Nenhum livro encontrado.";
   booksListElement.appendChild(noBooksMessageElement);
 }
@@ -101,6 +103,7 @@ function handleAddBookButtonClick({
       container: booksListElement,
       book: data,
     });
+    document.querySelector(".no-books-message").remove();
     alert("Livro adicionado com sucesso!");
   });
 }
