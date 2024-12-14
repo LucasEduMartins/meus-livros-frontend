@@ -16,10 +16,9 @@ Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós gr
 2. Abra o arquivo index.html no navegador.
 
 3. Utilize a interface para:
-
-- Cadastrar um livro preenchendo o campo de texto e clicando no botão de adicionar.
-- Selecione um livro para listar os comentários.
-- Adicionar comentários para um livro específico.
+   1. Cadastrar um livro preenchendo o campo de texto e clicando no botão de adicionar.
+   2. Selecione um livro para listar os comentários.
+   3. Adicionar comentários para um livro específico.
 
 ## 🚀 Funcionalidades
 
