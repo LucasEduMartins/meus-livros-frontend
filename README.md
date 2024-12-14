@@ -1,4 +1,4 @@
-# Projeto Meus Livros
+# Projeto Meus Livros ( Frontend )
 
 Este é um projeto básico em HTML, CSS e JavaScript, que permite o cadastro de livros e a criação de comentários relacionados a cada livro.
 
