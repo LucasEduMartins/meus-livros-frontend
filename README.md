@@ -9,7 +9,7 @@ Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós gr
 1. Faça o download ou clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-cadastro-livros.git
+   git clone [https://github.com/seu-usuario/projeto-cadastro-livros.git](https://github.com/LucasEduMartins/meus-livros-frontend.git)
 
    ```
 
